@@ -49,7 +49,7 @@
     "plugin-error": "^2.0.0",
     "postcss-scss": "^4.0.4",
     "postcss-simple-vars": "^6.0.3",
-    "sharp": "^0.31.0",
+    "sharp": "^0.32.6",
     "through2": "^4.0.2",
     "vinyl": "^2.2.1",
     "wrapper-webpack-plugin": "2.2.2"
